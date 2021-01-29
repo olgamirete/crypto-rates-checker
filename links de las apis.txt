@@ -1,0 +1,3 @@
+https://api.bit2me.com/v1/ticker2/
+https://api.satoshitango.com/v3/ticker/ARS
+https://app.ripio.com/api/v3/rates/?country=AR
